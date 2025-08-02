@@ -1,1 +1,2 @@
-# Booknest
+# Booknest app
+Booknest is a multifaceted app designed for book lovers, offering features to organize, track, and share reading experiences. It combines library management with social interaction, allowing users to track their reading progress, manage their book collections, and connect with other readers. Some versions of Booknest also allow users to borrow ebooks and participate in discussions about books. 
